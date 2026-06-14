@@ -10,7 +10,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  AWS_ROLE_ARN: arn:aws:iam::921570401447:role/GitHubActionsDeployRole
+  AWS_ROLE_ARN: arn:aws:iam::940827434048:role/GitHubActionsDeployRole
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
